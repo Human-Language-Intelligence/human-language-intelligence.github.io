@@ -178,7 +178,7 @@ body {
 .alumnus {
     position: relative;
     padding: 1rem 1rem 1rem 6rem;
-    min-height: 7rem;
+    min-height: 7.5rem;
     color: var(--text-color);
     font-size: 0.9rem;
     overflow: auto;
